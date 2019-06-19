@@ -1,3 +1,9 @@
+Exercice 1 OpenClassRoom sur ANGULAR
+
+# IMPORTANT CORRECTEUR
+
+Lorsque vous cliquez sur un des bouton like et don't like, vous voyez dans la console le nombre de like restant du post. 
+
 # FmAngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
